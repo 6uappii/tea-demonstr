@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/6uappii/tea-demonstr.git"
   },
-  "dependencies":{
+  "dependencies": {
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
